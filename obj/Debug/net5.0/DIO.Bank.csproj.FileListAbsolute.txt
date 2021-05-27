@@ -1,0 +1,16 @@
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank.deps.json
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.json
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.dev.json
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank.dll
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/ref/DIO.Bank.dll
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/bin/Debug/net5.0/DIO.Bank.pdb
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.AssemblyReference.cache
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfoInputs.cache
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfo.cs
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.dll
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/ref/DIO.Bank.dll
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.pdb
+/home/ubuntu/Documentos/DIO/dotnet/DIO.Bank/obj/Debug/net5.0/DIO.Bank.genruntimeconfig.cache
